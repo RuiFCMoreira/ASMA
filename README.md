@@ -1,2 +1,7 @@
 # ASMA
-[2022-2023] Multi-agent system - Airport management
+
+### Notes:
+- It is required to have openfire started.
+  - `cd opt/openfire/bin`
+  - `./openfire start`
+- Change file `var.py` with your personal openfire XMPP Server Settings
